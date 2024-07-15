@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Discord-F05032?style=for-the-badge&logo=git&logoColor=white"/></a></br>
+  <a href="" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-F05032?style=for-the-badge&logo=git&logoColor=white"/></a></br>
   officialx3r0
 </p>
 
