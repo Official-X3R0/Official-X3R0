@@ -44,3 +44,5 @@
 
 
 ![Official-X3R0's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Official-X3R0&custom_title=Official%20X3R0's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+![](https://komarev.com/ghpvc/?username=Official-X3R0)
