@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Official-X3R0?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Discord-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <b></b>Discord: officialx3r0<b>
 </p>
 <br/>
