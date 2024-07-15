@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <b></b>Discord: officialx3r0</b>
+  <b></b>Discord: officialx3r0<b>
 </p>
 <br/>
 <hr/>
